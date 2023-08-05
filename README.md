@@ -8,11 +8,31 @@ Source (requires log-in):
 https://www.chapeltowncohousing.org.uk/cycle-parking/
 
 As of August 2023 we still don’t have sheffield stands. This is where
-we’re looking to put them:
+we’re looking to put them in the following locations:
+
+# Draft email to get quotes
+
+Dear …
+
+We are looking to install a number of Sheffield stands in our car park.
+An overview of the site and where we’re planning to put the stands is
+shown in the map below.
+
+![](images/paste-2.png)
+
+Each of the spaces highlighted with red arrows is in the car park on
+paving stones with grade separation from the tarmac with paving slabs
+that could be used to fasten the stands, as shown below.
 
 ![](images/paste-1.png)
 
-And 2 other spaces between car parking spaces.
+There are 2 similar spaces between car parking spaces.
+
+Please can you provide quotes for:
+
+- 2 stands in each of the 3 spaces highlighted with red arrows
+- 2 stands in just one of the spaces as a trial
+- 3 stands in one of the spaces as a trial
 
 # Quotes
 
